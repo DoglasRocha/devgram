@@ -77,14 +77,14 @@ body {
 } 
 
 .devgram-login {
-    background-color: #0094e4;
+    background-color: #f23269;
     color: #e9e8ea;
     padding: 8px;
     border-radius: 4px;
 }
 
 .devgram-logout {
-    color: #0094e4;
+    color: #f23269;
     margin-top: 1rem;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .link-blue {
-    color:#0094e4;
+    color:#f23269;
 }
 
 .get-the-app {
