@@ -41,8 +41,8 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
-    min-height: 34rem;
+    width: 40%;
+    min-height: 36rem;
 }
 
 .group {
@@ -54,7 +54,6 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid #161414;
-    margin: 0.25rem 0;
 }
 
 .group:nth-child(1) {
