@@ -1,12 +1,12 @@
-# Devgram
+# </Dev>gram 
 
-Projeto criado no Bootcamp HTML Web Developer da Digital Innovation One, onde objetivava-se a
-recriação da página inicial do Instagram.
+* Projeto criado no curso "Recriando a página inicial do Instagram" do Bootcamp HTML Web Developer da Digital Innovation.
 
-Nele, alguns conceitos de CSS Flexbox e responsividade foram abordados.
+* Nele, alguns conceitos de CSS Flexbox e responsividade foram abordados.
 
-Decidi então, criar o Devgram, uma rede social para Devs!
+* Decidi então, criar o </Dev>gram, uma rede social para Devs!
+* Você pode encontrar o </Dev>gram <a href="https://doglasrocha.github.io/devgram/">aqui</a>!
 
-Imagem do Devgram:
+* Imagem do </Dev>gram:
 
-<img src="./img/Screenshot from 2021-08-02 11-44-52.png" alt="Imagem do Devgram">
+<img src="./img/devgram_screenshot.png" alt="Imagem do Devgram">
